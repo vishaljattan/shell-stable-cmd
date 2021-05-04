@@ -1,0 +1,19 @@
+their are many way to creating a payload 
+i will list some of the website which will help you
+
+https://revshells.com
+
+this website will do everthing for you. You just need to give the ip and port and you will the payload/cmd for the shell in any programing language 
+
+http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
+a very famous and good website just to copy paste the code for shell. (just need to change the <ip> and <port>)
+
+you have meterpreter shell also (Metasploit)
+
+multi/handler
+ you have to set the ip payload LOHST & RHOST 
+ 
+ it is used for the reverse shell.
+ 
+ 
